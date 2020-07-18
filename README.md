@@ -1,2 +1,2 @@
 # Scratchcss50
-Problem SET for css50 hazard course
+Problem SET for css50 havard course (edx)
